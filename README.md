@@ -1,2 +1,2 @@
 # Angular-APM
-Coding along with the Pluralsight cource "Angular: Getting Started" by Deborah Kurata
+Coding along with the Pluralsight course "Angular: Getting Started" by Deborah Kurata
